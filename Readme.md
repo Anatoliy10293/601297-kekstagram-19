@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Анатолий Трофименко](https://up.htmlacademy.ru/javascript/19/user/601297).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Уразаев](https://htmlacademy.ru/profile/urazaev).
 
 ---
 
